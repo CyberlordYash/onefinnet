@@ -1,35 +1,46 @@
-<<<<<<< HEAD
-# Bikecycle Store - React Website
+# 🚴 Bicycle Store - React Website
 
-A modern, responsive website built with React showcasing the newly launched bike. This project includes a Hero Section, features list, and a "Buy Now" button that is styled for a clean, professional user experience.
+A sleek and modern responsive website built with **React** to showcase the **Kryo X26 MTB**, a high-performance mountain bike. The project features a stylish hero section, detailed specifications, and a clean, user-friendly design, ensuring an engaging experience for visitors.
 
-## Features
+---
 
-- **Responsive Design**: Adapts seamlessly to mobile, tablet, and desktop views using Tailwind CSS.
-- **Hero Section**: Displays the name, specifications, and an attractive "Buy Now" button.
-- **Specification List**: Features key specifications for the Kryo X26 MTB.
-- **Animated Components**: Smooth transitions and hover effects for a dynamic user experience.
-- **Custom Fonts**: Uses high-quality fonts like Poppins and Lora for better readability.
+## ✨ Features
 
-## Tech Stack
+- **📱 Responsive Design**: Fully optimized for mobile, tablet, and desktop views using **Tailwind CSS**.
+- **🎨 Attractive Hero Section**: Highlights the bike's name, key features, and an eye-catching "Buy Now" button.
+- **📋 Specifications List**: Detailed list of key features, making it easy for users to understand the bike’s capabilities.
+- **🎥 Animated UI Components**: Smooth transitions and hover effects for enhanced interactivity.
+- **🖋️ Custom Typography**: Premium fonts (**Poppins** and **Lora**) for a clean and professional look.
 
-- **React**: A JavaScript library for building user interfaces.
+---
+
+## 🛠️ Tech Stack
+
+- **React**: A JavaScript library for building dynamic user interfaces.
 - **Tailwind CSS**: A utility-first CSS framework for styling the application.
-- **Font**: Poppins and Lora for modern, clean typography.
-- **Images**: Custom image assets for bike specifications and icons.
+- **Custom Fonts**: Stylish and readable fonts like **Poppins** and **Lora**.
+- **Assets**: High-quality images and icons for an immersive user experience.
 
-## Snapshots
-![image](https://github.com/user-attachments/assets/30b752c4-e71f-4821-b9de-d609bdfc32ba)
-![image](https://github.com/user-attachments/assets/54459b99-8b42-4066-b10d-200b02b022eb)
+---
 
-## Installation
+## 🖼️ Snapshots
+
+### Hero Section
+
+![Hero Section](https://github.com/user-attachments/assets/30b752c4-e71f-4821-b9de-d609bdfc32ba)
+
+### Specifications List
+
+![Specifications List](https://github.com/user-attachments/assets/54459b99-8b42-4066-b10d-200b02b022eb)
+
+---
+
+## 🚀 Installation
 
 To run this project locally, follow these steps:
 
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/yourusername/kryo-x26-mtb.git
-=======
-# onefinnet
->>>>>>> 7f3f5dc3aed2587ebca5f27ab1b43d1ccf326395
+   git clone https://github.com/yourusername/onefinnet.git
+   ```
